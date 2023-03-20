@@ -1,0 +1,31 @@
+:root {
+  --od-background: #191b1c;
+  --od-black: #191b1c;
+  --od-black-filter: invert(13%) sepia(18%) saturate(573%) hue-rotate(181deg)
+    brightness(93%) contrast(88%);
+  --od-black-alter: #1c1e1f;
+  --od-red: #e06c75;
+  --od-red-filter: invert(79%) sepia(34%) saturate(6693%) hue-rotate(309deg)
+    brightness(91%) contrast(93%);
+  --od-green: #98c379;
+  --od-green-filter: invert(76%) sepia(16%) saturate(812%) hue-rotate(52deg)
+    brightness(93%) contrast(90%);
+  --od-yellow: #e5c07b;
+  --od-yellow-filter: invert(74%) sepia(52%) saturate(339%) hue-rotate(358deg)
+    brightness(102%) contrast(80%);
+  --od-blue: #61afef;
+  --od-blue-filter: invert(68%) sepia(63%) saturate(2108%) hue-rotate(180deg)
+    brightness(100%) contrast(88%);
+  --od-magenta: #c678dd;
+  --od-magenta-filter: invert(77%) sepia(59%) saturate(4657%) hue-rotate(227deg)
+    brightness(92%) contrast(87%);
+  --od-cyan: #03dac6;
+  --od-cyan-filter: invert(79%) sepia(44%) saturate(4957%) hue-rotate(125deg)
+    brightness(97%) contrast(98%);
+  --od-orange: #d19a66;
+  --od-orange-filter: invert(99%) sepia(59%) saturate(5783%) hue-rotate(305deg)
+    brightness(85%) contrast(90%);
+  --od-white: #abb2bf;
+  --od-white-filter: invert(75%) sepia(8%) saturate(366%) hue-rotate(181deg)
+    brightness(95%) contrast(89%);
+}

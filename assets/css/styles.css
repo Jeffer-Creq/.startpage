@@ -1,4 +1,4 @@
-@import "./themes/onedark.css";
+@import "./themes/memento_mori.css";
 
 .theme-light {
   --bg-color: #ccc;
@@ -15,12 +15,12 @@
 .theme-dark {
   --bg-color: var(--od-black);
   --alter-bg-color: var(--od-black-alter);
-  --hover-color: var(--od-red);
+  --hover-color: var(--od-white);
   --not-hover-color: var(--od-white);
   --hover-filter: var(--od-red-filter);
   --not-hover-filter: var(--od-white-filter);
-  --category-color: var(--od-whiskey);
-  --logo-hover-color-filter: var(--od-cyan-filter);
+  --category-color: var(--od-white);
+  --logo-hover-color-filter: var(--od-magenta-filter);
 }
 
 .body {
@@ -66,11 +66,11 @@
 } */
 
 #icon-links {
-  margin: 2% 12% 0% 12%;
+  margin: 1% 12% 1% 12%;
 }
 
 .container-fluid {
-  padding: 5% 12% 0% 12%;
+  padding: 2% 12% 0% 12%;
   /* margin: 0% 10%; */
 }
 .link {
@@ -82,8 +82,8 @@
 }
 
 .logo {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   filter: var(--not-hover-filter);
 }
 
